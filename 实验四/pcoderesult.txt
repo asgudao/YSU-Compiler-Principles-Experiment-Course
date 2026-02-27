@@ -1,0 +1,10 @@
+_begini = 0
+2020
+-6
+6
+Let's have fun.
+1806000
+My stunum is : 
+18060000
+a is : -54
+Congratulations
